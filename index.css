@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(191, 195, 199);
+}
+
+h6 {
+  text-align: right;
+  margin-right: 10px;
+}
+
+.center-table {
+    margin: auto;
+    text-align: center;
+    width: fit-content;
+  }

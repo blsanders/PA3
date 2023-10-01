@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "japanese_name_1": "フシギダネ",
+    "japanese_name_2": "Fushigidane"
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "japanese_name_1": "フシギソウ",
+    "japanese_name_2": "Fushigisou"
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "japanese_name_1": "フシギバナ",
+    "japanese_name_2": "Fushigibana"
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "japanese_name_1": "ヒトカゲ",
+    "japanese_name_2": "Hitokage"
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "japanese_name_1": "リザード",
+    "japanese_name_2": "Rizādo"
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "japanese_name_1": "リザードン",
+    "japanese_name_2": "Rizādon"
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "japanese_name_1": "ゼニガメ",
+    "japanese_name_2": "Zenigame"
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "japanese_name_1": "カメール",
+    "japanese_name_2": "Kamēru"
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "japanese_name_1": "カメックス",
+    "japanese_name_2": "Kamekkusu"
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "japanese_name_1": "キャタピー",
+    "japanese_name_2": "Kyatapī"
+  },
+  {
+    "id": 11,
+    "name": "Metapod",
+    "japanese_name_1": "トランセル",
+    "japanese_name_2": "Toranseru"
+  },
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "japanese_name_1": "バタフリー",
+    "japanese_name_2": "Batafurī"
+  },
+  {
+    "id": 13,
+    "name": "Weedle",
+    "japanese_name_1": "ビードル",
+    "japanese_name_2": "Bīdoru"
+  },
+  {
+    "id": 14,
+    "name": "Kakuna",
+    "japanese_name_1": "コクーン",
+    "japanese_name_2": "Kokūn"
+  },
+  {
+    "id": 15,
+    "name": "Beedrill",
+    "japanese_name_1": "スピアー",
+    "japanese_name_2": "Supiā"
+  },
+  {
+    "id": 16,
+    "name": "Pidgey",
+    "japanese_name_1": "ポッポ",
+    "japanese_name_2": "Poppo"
+  },
+  {
+    "id": 17,
+    "name": "Pidgeotto",
+    "japanese_name_1": "ピジョン",
+    "japanese_name_2": "Pijon"
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot",
+    "japanese_name_1": "ピジョット",
+    "japanese_name_2": "Pijotto"
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "japanese_name_1": "コラッタ",
+    "japanese_name_2": "Koratta"
+  },
+  {
+    "id": 20,
+    "name": "Raticate",
+    "japanese_name_1": "ラッタ",
+    "japanese_name_2": "Ratta"
+  }
+]
